@@ -1,0 +1,4 @@
+GET http://localhost:4000/products
+
+###
+GET http://localhost:4000/products/640222e40c67e1a26ebba566
